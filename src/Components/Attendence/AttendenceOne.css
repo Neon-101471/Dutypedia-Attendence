@@ -1,0 +1,49 @@
+.single-day{
+    text-align: left !important;
+    border: 2px solid yellow;
+}
+
+.input-time input{
+    height: 35px;
+    width: 150px;
+    border: 1px solid red;
+    background-color: white;
+}
+
+.time-span{
+    display: flex;
+    width: 198px;
+    height: 45px;
+    border-radius: 6px !important;
+}
+
+.time-span input {
+    height: 45px;
+    width: 198px;
+    text-align: left;
+    padding: auto;
+    font-size: 13px;
+    border: 1px solid red;
+}
+
+.time-span span {
+    margin-left: -40px;
+    width: 46px;
+    height: 45px;
+    border-radius: 6px;
+    background-color: rgb(246, 27, 27);
+    border: 1px solid red;
+}
+
+.fa-calendar-alt{
+    color: white;
+    font-size: 25px;
+}
+
+.single-attendence input {
+    height: 45px;
+    width: 198px;
+    border: 0;
+    border-radius: 8px;
+    background-color: rgb(236, 236, 236);
+}

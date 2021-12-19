@@ -1,0 +1,81 @@
+.arrow-sign{
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.home-container{
+    background-color: rgb(230, 216, 218) !important;
+    padding: 2px 0px;
+    margin-bottom: 50px;
+    border-radius: 3px;
+}
+
+.home-body{
+    padding: 15px;
+    padding-bottom: 50px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+.create-btn{
+    width: 160px;
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px 15px;
+    border: 0;
+}
+
+.cancel-btn{
+    width: 160px;
+    color: red;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px 15px;
+    border: 1px solid red;
+}
+
+.attendence-date input{
+    display: flex;
+    height: 35px;
+    border: 1px solid red;
+    border-radius: 6px;
+    text-align: center;
+}
+
+select{
+    width: 100px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.attendence-span{
+    display: flex;
+    width: 220px;
+    height: 50px;
+}
+
+.attendence-span input {
+    padding-left: 15px;
+    text-align: left;
+    font-size: 13px;
+    height: 50px;
+    width: 220px;
+}
+
+.attendence-span span {
+    margin-left: -46px;
+    width: 46px;
+    height: 50px;
+    border-radius: 6px;
+    background-color: rgb(220, 14, 14);
+    border: 1px solid red;
+}
+
+.fa-calendar-alt{
+    color: white;
+    font-size: 25px;
+}

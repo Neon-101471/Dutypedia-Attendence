@@ -1,0 +1,44 @@
+.arrow-sign{
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.home-container{
+    background-color: rgb(243, 225, 228) !important;
+    padding: 2px 0px;
+    margin-bottom: 50px;
+    border-radius: 3px;
+}
+
+.home-body{
+    padding: 15px;
+    padding-bottom: 50px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+.rasel-academy{
+    font-size: 35px;
+}
+
+.create-btn{
+    width: 160px;
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px 15px;
+    border: 0;
+}
+
+.cancel-btn{
+    background-color: white;
+    width: 160px;
+    color: red;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px 15px;
+    border: 1px solid red;
+}

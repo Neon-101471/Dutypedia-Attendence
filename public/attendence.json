@@ -1,0 +1,37 @@
+[
+  {
+    "id": 201,
+    "day": "Saturday",
+    "attendenceId": "saturday"
+  },
+  {
+    "id": 202,
+    "day": "Sunday",
+    "attendenceId": "sunday"
+  },
+  {
+    "id": 203,
+    "day": "Monday",
+    "attendenceId": "monday"
+  },
+  {
+    "id": 204,
+    "day": "Tuesday",
+    "attendenceId": "tuesday"
+  },
+  {
+    "id": 205,
+    "day": "Wednesday",
+    "attendenceId": "wednesday"
+  },
+  {
+    "id": 206,
+    "day": "Thirsday",
+    "attendenceId": "thirsday"
+  },
+  {
+    "id": 207,
+    "day": "Friday",
+    "attendenceId": "friday"
+  }
+]

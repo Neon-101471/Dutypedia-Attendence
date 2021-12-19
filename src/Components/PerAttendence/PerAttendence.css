@@ -1,0 +1,57 @@
+.every-day{
+    font-size: 20px;
+    font-family: aller;
+}
+
+.per-attendence-span{
+    display: flex;
+    width: 128px;
+    height: 33px;
+    border: 1px solid red;
+}
+
+.time-counter{
+    text-align: center;
+    width: 95px;
+    height: 33px;
+}
+
+.upDown-arrow{
+    display: flex;
+    flex-direction: column;
+    width: 32px;
+    height: 31px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-color: red;
+}
+
+.up-arrow{
+    height: 15px;
+    margin: 0px;
+    color: white;
+    padding: 0px;
+}
+
+.down-arrow{
+    height: 15px;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+hr{
+    width: 28px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid rgb(255, 254, 254);
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    opacity: 0.85;
+}
+
+.disabled-button {
+    opacity: 0.5;
+}

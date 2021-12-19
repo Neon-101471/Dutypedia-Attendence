@@ -1,0 +1,43 @@
+.image-container img{
+    height: 90px;
+    width: 100px;
+    margin: auto;
+}
+
+.card-title{
+    font-size: 30px;
+}
+
+#service1{
+    background-color: rgb(255, 212, 183);
+}
+
+#service2{
+    background-color: rgb(190, 218, 223);
+}
+
+#service3{
+    background-color: rgb(246, 243, 255);
+}
+
+#service4{
+    background-color: rgb(255, 232, 232);
+}
+
+#service5{
+    background-color: rgb(242, 255, 219);
+}
+
+#service6{
+    background-color: rgb(251, 251, 251);
+}
+
+#service7{
+    background-color: rgb(255, 244, 235);
+}
+
+#service1:hover, #service2:hover, #service3:hover, #service4:hover, #service5:hover, #service6:hover, #service7:hover {
+    background-color: white;
+    border: 1px solid lightsalmon;
+    transform: scale(1.05);
+}
